@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AndroidExam</string>
+    <string name="title.numberguess">Guess The Number</string>
+    <string name="label.top">Top</string>
+    <string name="label.bottom">Bottom</string>
+    <string name="btn.ok">OK</string>
+    <string name="btn.question_mark">\???</string>
+    <string name="btn.guessAgain">Guess Again</string>
+
+
+    <string name="status.lower">The number is lower than the unknown number.</string>
+    <string name="status.greater">The number is greater than the unknown number.</string>
+    <string name="status.correct">Congratulations you are correct!</string>
+    <string name="status.invalid">Number should range from 1 to 100</string>
+</resources>
